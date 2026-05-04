@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9TtvQd4HT+4=",
+  "success": true,
+  "projectFilePath": "D:\\WORKING_FOLDER\\C++\\2nd_year\\Course\\TestOpenCV\\TestOpenCV\\TestOpenCV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bosss\\.nuget\\packages\\opencvsharp4\\4.13.0.20260302\\opencvsharp4.4.13.0.20260302.nupkg.sha512",
+    "C:\\Users\\bosss\\.nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260302\\opencvsharp4.runtime.win.4.13.0.20260302.nupkg.sha512"
+  ],
+  "logs": []
+}

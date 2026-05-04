@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORKING_FOLDER\\C\u002B\u002B\\2nd_year\\Course\\PDFtoPNG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B21BAA-199D-4E6F-B11A-183C8EC1D8C7}|PDFtoPNG\\PDFtoPNG.csproj|d:\\working_folder\\c\u002B\u002B\\2nd_year\\course\\pdftopng\\pdftopng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B21BAA-199D-4E6F-B11A-183C8EC1D8C7}|PDFtoPNG\\PDFtoPNG.csproj|solutionrelative:pdftopng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORKING_FOLDER\\C\u002B\u002B\\2nd_year\\Course\\PDFtoPNG\\PDFtoPNG\\Program.cs",
+              "RelativeDocumentMoniker": "PDFtoPNG\\Program.cs",
+              "ToolTip": "D:\\WORKING_FOLDER\\C\u002B\u002B\\2nd_year\\Course\\PDFtoPNG\\PDFtoPNG\\Program.cs",
+              "RelativeToolTip": "PDFtoPNG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T20:39:34.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

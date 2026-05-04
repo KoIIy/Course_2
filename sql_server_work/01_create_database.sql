@@ -1,0 +1,11 @@
+USE master;
+GO
+
+IF DB_ID(N'AnketaOK') IS NULL
+BEGIN
+    CREATE DATABASE AnketaOK;
+END
+GO
+
+USE AnketaOK;
+GO
